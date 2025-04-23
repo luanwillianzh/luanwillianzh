@@ -51,6 +51,3 @@ Script shell para forçar conexão VPN em dispositivos Android via Termux, com a
 ---
 
 *Este perfil é atualizado com projetos que buscam unir utilidade e simplicidade. Sinta-se à vontade para explorar e contribuir!*
-
-
-[![spotify-github-profile](https://nowplaying.aidenwallis.co.uk/6344cc20d1def76279d7790d)](https://github.com/kittinan/spotify-github-profile)
