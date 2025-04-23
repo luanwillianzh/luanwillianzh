@@ -12,10 +12,6 @@ Desenvolvedor apaixonado por soluções criativas, com foco em automação, leit
 - **v0-central-app**: Aplicativo mobile (Next.js + TypeScript) para leitura de novels com interface moderna e responsiva.  
   🔗 [Repositório](https://github.com/luanwillianzh/v0-central-app)
 
-### 📥 Novel Downloader
-Ferramenta para baixar novels de forma automatizada, com suporte a múltiplas fontes e organização local.  
-🔗 [Repositório](https://github.com/luanwillianzh/novel-downloader)
-
 ### 🔐 VPN Script
 Script shell para forçar conexão VPN em dispositivos Android via Termux, com automação de instalação e permissões.  
 🔗 [Repositório](https://github.com/luanwillianzh/vpn)
@@ -35,18 +31,12 @@ Script shell para forçar conexão VPN em dispositivos Android via Termux, com a
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luanwillianzh&show_icons=true&theme=radical)
 
----
-
-## 🎧 Agora ouvindo
-
-![Spotify Now Playing](https://github.com/luanwillianzh/spotify-github-profile/blob/master/img/novatorem.svg)
 
 ---
 
 ## 📫 Contato
 
 - 🌐 [Meu GitHub](https://github.com/luanwillianzh)
-- ✉️ [Email](mailto:seuemail@example.com) *(substitua pelo seu email real)*
 
 ---
 
