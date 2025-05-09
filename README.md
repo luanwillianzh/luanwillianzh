@@ -4,6 +4,8 @@ Desenvolvedor apaixonado por soluções criativas, com foco em automação, leit
 
 ---
 
+## 🎼 Spotify
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31z7ojmfde6ue5wez4av4mmmjpxe&cover_image=true&theme=novatorem&show_offline=false&background_color=030303&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
