@@ -12,15 +12,9 @@ Desenvolvedor apaixonado por soluções criativas, com foco em automação, leit
 
 ## 🚀 Projetos em Destaque
 
-### 📚 Central & v0-central-app
-- **Central**: Plataforma backend para leitura e download de novels, com suporte a APIs e deploy via Docker.  
-  🔗 [Repositório](https://github.com/luanwillianzh/central)
-- **v0-central-app**: Aplicativo mobile (Next.js + TypeScript) para leitura de novels com interface moderna e responsiva.  
-  🔗 [Repositório](https://github.com/luanwillianzh/v0-central-app)
-
-### 🔐 VPN Script
-Script shell para forçar conexão VPN em dispositivos Android via Termux, com automação de instalação e permissões.  
-🔗 [Repositório](https://github.com/luanwillianzh/vpn)
+### 📚 NovelReaderApp
+- **Novel Reader**: Plataforma para leitura e download de novels.  
+  🔗 [Repositório](https://github.com/luanwillianzh/NovelReaderApp)
 
 ---
 
